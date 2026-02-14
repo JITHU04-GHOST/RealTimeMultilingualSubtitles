@@ -3,3 +3,4 @@ __pycache__/
 *.pyc
 chunk.wav
 data/temp.wav
+data/*.wav
